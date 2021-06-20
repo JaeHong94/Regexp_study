@@ -1,0 +1,24 @@
+{
+  "name": "Regexp_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaeHong94/Regexp_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaeHong94/Regexp_study/issues"
+  },
+  "homepage": "https://github.com/JaeHong94/Regexp_study#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {}
+}
