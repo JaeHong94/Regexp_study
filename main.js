@@ -7,7 +7,10 @@ const str = `
 `;
 
 // const regexp = new RegExp('the', 'g');
-const regexp = /fox/gi;
+const regexp = /the/;
 console.log(regexp.test(str));
 console.log(str.match(regexp));
 console.log(str.replace(regexp, 'dog'));
+
+const flagRegExp = /\.$/gim;
+console.log(str.match(flagRegExp));
